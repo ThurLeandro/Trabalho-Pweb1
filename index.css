@@ -1,0 +1,60 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    border-radius: 50%;
+}
+
+h1{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+th{
+    border: 1px solid white;
+}
+
+#b{
+    border: 1px solid white;
+}
+
+#c{
+    border: 1px solid white;
+}
+
+#d{
+    border: 1px solid white;
+}
+
+#e{
+    border: 1px solid white;
+}
+
+#f{
+    border: 1px solid white;
+}
+
+#g{
+    border: 1px solid white;
+}
+
+#h{
+    border: 1px solid white;
+}
+
+#i{
+    border: 1px solid white;
+}
+
+table{
+    margin: 0 auto;
+}
